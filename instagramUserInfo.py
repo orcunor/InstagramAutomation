@@ -1,2 +1,2 @@
-username = "kullanıcı adınız"
-password = "şifreniz"
+username = "enter a username"
+password = "enter a password"
