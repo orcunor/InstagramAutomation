@@ -108,8 +108,8 @@ class Instagram:
 instagram = Instagram(username, password)
 instagram.signIn()
 #instagram.getFollowers()
-#instagram.followUser("denizorr")
-#instagram.unfollowUser("denizorr")
+#instagram.followUser("testt")
+#instagram.unfollowUser("test")
 
 # list = ["iss","kod_evreni","greenpeace"]
 
